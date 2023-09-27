@@ -145,29 +145,13 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_gpW8sEGjEe6HN-vTwi6_QQ",
+    "id" : "_j9ECgF0VEe6f1M2EmRzr0w",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "DQTechnical",
+    "id" : "_j9ECgF0VEe6f1M2EmRzr0w - TESTING",
     "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
